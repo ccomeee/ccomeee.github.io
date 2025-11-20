@@ -1,0 +1,29 @@
+{
+  "users": {
+    "e96254ca-bf31-4165-9e92-36a36331c74c": {
+      "id": "e96254ca-bf31-4165-9e92-36a36331c74c",
+      "username": "dddddddddddd",
+      "password": "$2b$10$wtlWDbvNmiKcSOYYSYVvs.PVNza0xU8Hfjf6K2nAjE/9SIWMdvxpS",
+      "email": null,
+      "firstName": null,
+      "lastName": null,
+      "profileImageUrl": null,
+      "createdAt": "2025-11-07T13:50:52.900Z",
+      "updatedAt": "2025-11-07T13:50:52.900Z"
+    },
+    "dc193998-a7cd-48d2-9345-b133c21be5b2": {
+      "id": "dc193998-a7cd-48d2-9345-b133c21be5b2",
+      "username": "vcbf",
+      "password": "$2b$10$OteofNpYLYiSMs8xL0jGQO/WkhvMZljhi6EOT3WBeYfr6y06oHnHC",
+      "email": null,
+      "firstName": null,
+      "lastName": null,
+      "profileImageUrl": null,
+      "createdAt": "2025-11-07T13:51:48.596Z",
+      "updatedAt": "2025-11-07T13:51:48.596Z"
+    }
+  },
+  "insights": {},
+  "diaryEntries": {},
+  "tutorials": {}
+}
